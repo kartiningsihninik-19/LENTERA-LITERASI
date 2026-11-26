@@ -1,0 +1,6 @@
+{
+  "name": "Lentera Kata",
+  "description": "Aplikasi belajar Bahasa Indonesia Kelas 10 yang mudah dan aplikatif untuk menumbuhkan gemar literasi bacaan sastra, non-sastra, dan pengetahuan umum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

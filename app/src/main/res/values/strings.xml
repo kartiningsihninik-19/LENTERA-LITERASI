@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lentera Kata</string>
+    <string name="app_tagline">Bahasa Indonesia Kelas 10 • Mudah &amp; Aplikatif</string>
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_pustaka">Pustaka</string>
+    <string name="nav_praktik">Praktik</string>
+    <string name="nav_kuis">Kuis</string>
+</resources>
